@@ -1,0 +1,62 @@
+/* Kayıt düğmesi stilini tanımla */
+#kayit {
+    -fx-background-image: url('üyeol.png');
+}
+
+#kayit:hover {
+    -fx-background-image: url('uyeolm.png');
+}
+
+/* Forum düğmesi stilini tanımla */
+#forum{
+    -fx-background-image: url('forum.png');
+    -fx-background: url('ses.mp3') no-repeat center center;
+}
+
+#forum:hover {
+    -fx-background-image: url('forumm.png');
+}
+
+/* Destek düğmesi stilini tanımla */
+#destek {
+    -fx-background-image: url('destek.png');
+}
+
+#destek:hover {
+    -fx-background-image: url('destekm.png');
+}
+#sss {
+    -fx-background-image: url('sss.png');
+}
+
+#sss:hover {
+    -fx-background-image: url('sssm.png');
+}
+#baslat {
+    -fx-background-image: url('oyunilk.png');
+}
+
+#baslat:hover {
+    -fx-background-image: url('oyuniki.png');
+}
+#insta {
+    -fx-background-image: url('insta.png');
+}
+#discord {
+    -fx-background-image: url('dc.png');
+}
+#threads {
+    -fx-background-image: url('threads.png');
+}
+#youtube {
+    -fx-background-image: url('youtube.png');
+}
+#tiktok {
+    -fx-background-image: url('tt.png');
+}
+#x {
+    -fx-background-image: url('x.png');
+}
+#duyuru {
+    -fx-background-image: url('duyuru.png');
+}
