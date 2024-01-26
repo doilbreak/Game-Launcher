@@ -16,9 +16,10 @@ This project aims to create a custom launcher application with its own update sy
 ## Installation 
 
 Clone the project:
+```markdown
 `git clone https://github.com/username/game-launcher.git
 cd game-launcher` 
-
+ ```
 Install the required dependencies:
 ```markdown
      npm install
